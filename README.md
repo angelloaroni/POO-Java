@@ -1,3 +1,1 @@
--Mayoría de funcionalidades de POO.
--Codigo incompleto al que le falta verificaciones y añadir un método descriptivo a cada una de las Clases y además necesita que se le añadan funcionalidades que permitan que el usuario pueda seguir digitando acciones luego de haber llamado a cierto método.
--Modificar solamente la parte del App.java
+-Mayoría de funcionalidades de POO
